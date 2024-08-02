@@ -1,0 +1,142 @@
+1.What is the result of the following operation?
+Top (Push (S, X))
+a) X
+b) X+S
+c) S
+d) XS
+**************************************************
+2.The process of accessing data stored in a serial access memory is similar to 
+manipulating data on a ________
+a) Heap
+b) Binary Tree
+c) Array
+d) Stack
+****************************************************************************
+4.Which of the following is not the application of stack?
+a) A parentheses balancing program
+b) Tracking of local variables at run time
+c) Compiler Syntax Analyzer
+d) Data Transfer between two asynchronous process
+******************************************************************************
+5 Which is/are the application(s) of stack
+[A] Function calls
+[B] Large number Arithmetic
+[C] Evaluation of arithmetic expressions
+[D] All of the above
+******************************************************
+*********************************************************
+7 What data structure would you mostly likely see in implementation 
+of a recursive algorithm?
+A Stack
+B Linked list
+C Queue
+D Trees
+*********************************************************
+8 Pushing an element into stack already having five elements and stack size of 5, then stack becomes
+a) Overflow
+b) Crash
+c) Underflow
+d) User flow
+*********************************************************
+9 Entries in a stack are “ordered”. What is the meaning of this statement?
+a) A collection of stacks is sortable
+b) Stack entries may be compared with the ‘<‘ operation
+c) The entries are stored in a linked list
+d) There is a Sequential entry that is one by one
+********************************************************
+10.Consider the usual algorithm for determining whether a sequence of parentheses 
+is balanced.
+The maximum number of parentheses that appear on the stack AT ANY ONE TIME 
+when the algorithm analyzes: (()(())(())) are:
+a) 1
+b) 2
+c) 3
+d) 4 or more
+*********************************************************
+*********************************************************
+12.Consider the linked list implementation of a stack. Which of the following node is considered as Top of the stack?
+
+a) First node
+b) Last node
+c) Any node
+d) Middle node
+*******************************************************
+13.Consider the following operation performed on a stack of size 5.
+Push(1);
+Pop();
+Push(2);
+Push(3);
+Pop();
+Push(4);
+Pop();
+Pop();
+Push(5);
+
+After the completion of all operation, the no of element present on stack are
+
+a) 1
+b) 2
+c) 3
+d) 4
+********************************************************
+14 Which of the following is not an inherent application of stack?
+a) Reversing a string
+b) Evaluation of postfix expression
+c) Implementation of recursion
+d) Job scheduling
+*******************************************************************
+15. Which of the following operation take worst case linear time in the array implementation of stack?
+
+a) Push
+b) Pop
+c) IsEmpty
+d) None
+**********************************************************************
+16.If the elements “A”, “B”, “C” and “D” are placed in a stack and are deleted one at a time, in what order will they be removed?
+
+a) ABCD
+b) DCBA
+c) DCAB
+d) ABDC
+******************************************************************************
+17.In a stack, if a user tries to remove an element from empty stack it is called _________.
+
+A. Underflow
+B. Empty collection
+C. Overflow
+D. Garbage Collection
+****************************************************************************
+18.Here is an infix expression: 4 + 3*(6*3-12). Suppose that we are using the usual stack algorithm to convert the expression from infix to postfix notation.
+In this scenario, what will be the maximum number of symbols that will appear on the stack at the given time during the conversion of this expression?
+a) 6
+b) 5
+c) 3
+d) 4
+******************************************************************************
+19.Which data structure is used to check a palindrome?
+(a) Linked List
+(b) Stack
+(c) Queue
+(d) Tree
+******************************************************************************
+What is the value of the postfix expression 6 3 2 4 + – *?
+a) 1
+b) 40
+c) 74
+d) -18
+************************************************************************
+11.The postfix form of A*B+C/D is?
+
+a) *AB/CD+
+b) AB*CD/+
+c) A*BC+/D
+d. ABCD+/*
+***************************************************************************
+12. The postfix form of the expression is (A+B) * (C*D-E)*F/G is
+A  AB+CD*E-FG/**.
+B. AB+CD*E-*F*G/
+C. AB+CD*E-F**G/
+D. AB+CDE*-*F*G/
+
+
+
